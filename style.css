@@ -1,0 +1,14 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+.block1 {
+
+    background-color: coral;
+    width: 48%;
+}
+.join
+{
+    display: inline-flex;
+}
